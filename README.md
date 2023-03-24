@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hi 👋, I'm Tad</h1>
 
 - 🍰 I’m currently working on [Chart Cake](chartcake.com)
