@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Tad</h1>
 
-- 🌿 I'm actively working on [songleaf.app](songleaf.app)
+- 🌿 I'm actively working on [songleaf.app](https://songleaf.app)
 
-- 👨‍💻 You can see all of my projects at [tadscritchfield.com](tadscritchfield.com)
+- 👨‍💻 You can see all of my projects at [tadscritchfield.com](https://tadscritchfield.com)
 
 
 
