@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Tad</h1>
 
-- 🍰 I’m currently working on [Chart Cake](chartcake.com)
+- 🌿 I'm actively working on [songleaf.app](songleaf.app)
 
-- 👨‍💻 All of my projects are available at [tadscritchfield.com](tadscritchfield.com)
+- 👨‍💻 You can see all of my projects at [tadscritchfield.com](tadscritchfield.com)
 
 
 
